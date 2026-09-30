@@ -1,0 +1,13 @@
+{
+  "name": "studio.bad-practice.cursoriam.inspector",
+  "version": "1.0.0",
+  "displayName": "Cursoriam Inspector",
+  "author": {
+    "name": "Bad Practice Studio"
+  },
+  "unity": "2018.3",
+  "dependencies": {
+    "studio.bad-practice.cursoriam.logger": "1.0.0",
+    "studio.bad-practice.cursoriam.extension": "1.0.0"
+  }
+}

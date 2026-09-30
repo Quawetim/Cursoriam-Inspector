@@ -1,0 +1,21 @@
+{
+    "name": "BadPractice.Cursoriam.Inspector.Editor",
+    "rootNamespace": "BadPractice.Cursoriam.Inspector.Editor",
+    "references": [
+        "GUID:00ad0a9b7642bb84cba519880e20cc94",
+        "GUID:1a73311977d3fac4daa47dab1a346a9c",
+        "GUID:c4bfe71ae7f68624698a70dd80a58542",
+        "GUID:c95ef1ac70872774484cec5a7b576ed9"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
